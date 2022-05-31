@@ -1,0 +1,49 @@
+"Categorias de risco" (SOBREVIDA)
+a= Muito baixo (8,8 anos)
+b= Baixo risco (5,3 anos)
+c= Risco intermediário (3 anos)
+d= Alto risco (1,6 anos)
+e= Risco muito alto (0,8 anos)
+a<= 1,5
+b> 1,5 e <= 3
+c> 3 e <= 4,5
+d> 4,5 e <= 6
+e>6
+..............................................
+(Sistema de pontuações)
+..............................................
+"Alterações em cariótipo"
+Cariótipo muito favorável= del.11q e -Y
+Cariótipo favorável= Normal, del.5q, del.12p, del.20p ou del.5q + mutação isolada
+Cariótipo intermediário= del.7q, (+8), iso.17q, (+19), outra ou alteração dupla que não inclua del.5q
+Cariótipo desfavorável= del.3q, (-7), (-7) ou del.7q + outra, cariótipo complexo
+Cariótipo muito desfavorável= Complexo>= 4 alterações
+"Pontuação de cariótipo"
+Cariótipo muito favorável= +0
+Cariótipo favorável= +1
+Cariótipo intermediário= +2
+Cariótipo desfavorável= +3
+Cariótipo muito desfavorável= +4
+(**************************************)
+"Blastos em MO (%)"
+<= 2%= +0
+>= 2,1% e <5%= +1
+=5% e <= 10%= +2
+> 10%= +3
+(**************************************)
+"Hemoglobina (g/dL)"
+>=10 = +0
+=>8 e <10 = +1
+<8 = +1,5
+(**************************************)
+"Plaquetas (mil cél/mm**3)"
+>= 100 = +0
+>= 50 e <100 = +0,5
+<50 = +1
+(**************************************)
+"Contagem Absoluta de Neutrófilos (mm**3)" 
+>= 800 = +0
+<800 = +0,5
+
+
+
